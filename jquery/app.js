@@ -7,3 +7,8 @@ $(document).ready(function() {
     $('.overlay').removeClass('open');
   });
 });
+
+$(document).ready(function() {
+    $("#element").introLoader();
+});
+
