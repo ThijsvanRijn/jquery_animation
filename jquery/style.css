@@ -18,16 +18,21 @@ html, body {
 .ijs {
     height: 100vh;
     width: 100vw;
-    background-color: white;
+    background-color: lightsteelblue;
     position: absolute;
     top: -100vw;
     z-index: 999;
 }
 
+p {
+    text-align: center;
+    color:white;
+}
+
 .ijs1 {
     height: 100vh;
     width: 100vw;
-    background-color: black;
+    background-color: darkslategray;
     position: absolute;
     top: 0px;
     left: -100vw;
